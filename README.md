@@ -1,7 +1,8 @@
 # Week 3
    [Week3](https://github.com/ImAli0/ImAli/blob/main/week3/Intro.ipynb):
 ### code 3-1
--Init Code for XORLearning Example 
+-Init Code for XORLearning Example:
+
 -Now that the ground truth has been altered for the training example to range from 0.0 to 1.0 because, as previously stated, we have selected the logistic sigmoid function as our activation function for the output neuron, unlike the perceptron, which had an output of -1.0 our neuron's output does not go to -1.0.
 
 ### code 3-2
