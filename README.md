@@ -1,5 +1,5 @@
 # Week 3
-   [Week3 ] (https://github.com/ImAli0/ImAli/blob/main/week3/Intro.ipynb):
+   [Week3](https://github.com/ImAli0/ImAli/blob/main/week3/Intro.ipynb):
 ### code 3-1
 -Init Code for XORLearning Example 
 -Now that the ground truth has been altered for the training example 
