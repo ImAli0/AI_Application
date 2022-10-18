@@ -22,8 +22,10 @@
        
 • Variables: tensors initialized in a session:
 – trainable, defined as tf.Variable()
+
 • Constants: fixed value tensors
 – not trainable, defined as tf.constant()
+
 • Placeholders: tensors whose values are unknown during the
 graph construction but passed as input during a session:
 tf.placeholder()
