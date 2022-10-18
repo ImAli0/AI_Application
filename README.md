@@ -65,7 +65,7 @@ and the green line corresponds to the noise-free dataset.
 
 -Executing the computational graph
 
-    [Week 6_2](https://github.com/ImAli0/ImAli/blob/main/week6/week6_session2.ipynb):
+   [Week 6_2](https://github.com/ImAli0/ImAli/blob/main/week6/week6_session2.ipynb):
     
 • Linear Regression using TensorFlow
 • Visualization of Linear Regression parameters using
