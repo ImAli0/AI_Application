@@ -90,3 +90,17 @@ dataset using TensorFlow
 -Defining the metrics in order to compute the loss for the dataset, then defining
 the AdagradOptimizer which requires learning_rate as a parameter and
 computed_loss as an input
+
+
+# Week7 
+  [Week7](https://github.com/ImAli0/ImAli/blob/main/week7/Week7_lab1_1%2C1_2%2C1_3%2C1_4%2C1_5.ipynb):
+  
+• Convolutional Neural Networks
+• The CIFAR-10 Dataset
+• Characteristics and building blocks for convolutional
+layers
+• Combining feature maps into a convolutional layer
+• Combining convolutional and fully connected layers into a
+network
+• Effects of sparse connections and weight sharing
+• Image classification with a convolutional network
