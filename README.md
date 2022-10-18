@@ -96,11 +96,15 @@ computed_loss as an input
   [Week7](https://github.com/ImAli0/ImAli/blob/main/week7/Week7_lab1_1%2C1_2%2C1_3%2C1_4%2C1_5.ipynb):
   
 • Convolutional Neural Networks
+
 • The CIFAR-10 Dataset
-• Characteristics and building blocks for convolutional
-layers
+
+• Characteristics and building blocks for convolutional layers
+
 • Combining feature maps into a convolutional layer
-• Combining convolutional and fully connected layers into a
-network
+
+• Combining convolutional and fully connected layers into a network
+
 • Effects of sparse connections and weight sharing
+
 • Image classification with a convolutional network
